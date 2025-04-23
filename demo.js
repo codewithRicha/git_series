@@ -1,2 +1,1 @@
-document.writeln("hello");
-console.log("this is for demo");
+document.writeln("hello")
